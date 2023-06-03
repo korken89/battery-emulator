@@ -41,4 +41,5 @@
   (lib (name "MM8130-2600")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/MM8130-2600.kicad_sym")(options "")(descr ""))
   (lib (name "Lattice_ECP5_FPGA")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/Lattice_ECP5_FPGA.kicad_sym")(options "")(descr ""))
   (lib (name "Joulescope")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/Joulescope.kicad_sym")(options "")(descr ""))
+  (lib (name "opamp")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/symbols/opamp.kicad_sym")(options "")(descr ""))
 )
